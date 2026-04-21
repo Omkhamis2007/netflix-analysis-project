@@ -17,8 +17,10 @@ This project analyzes Netflix movies and TV shows dataset using Tableau to uncov
 * Country-wise content distribution
 
 ## 📸 Dashboard Preview
+<img width="1366" height="724" alt="p1" src="https://github.com/user-attachments/assets/a2a4d105-f6c0-492c-8ae2-6bc12e2177f6" />
+<img width="1366" height="725" alt="p2" src="https://github.com/user-attachments/assets/d9f7aa0e-3689-4359-91c3-364ed51b84a9" />
 
-(Add your dashboard screenshots here)
+
 
 ## 📁 Files in Repository
 
@@ -28,7 +30,3 @@ This project analyzes Netflix movies and TV shows dataset using Tableau to uncov
 ## 🚀 Project Outcome
 
 This project demonstrates skills in data visualization, dashboard creation, and extracting insights from real-world data using Tableau.
-
-## 🔗 Live Dashboard (Optional)
-
-(Add Tableau Public link if available)
