@@ -9,12 +9,11 @@ This project analyzes Netflix movies and TV shows dataset using Tableau to uncov
 * Tableau
 * CSV (Dataset)
 
-## 📊 Key Insights
-
-* Comparison between Movies and TV Shows
-* Year-wise growth of Netflix content
-* Most popular genres on Netflix
-* Country-wise content distribution
+## 🔍 Key Insights
+- Movies dominate Netflix content (~70%)
+- USA produces the highest content
+- Content increased तेजी after 2015
+- Drama and Comedy are top genres
 
 ## 📸 Dashboard Preview
 <img width="1366" height="724" alt="p1" src="https://github.com/user-attachments/assets/a2a4d105-f6c0-492c-8ae2-6bc12e2177f6" />
@@ -26,6 +25,9 @@ This project analyzes Netflix movies and TV shows dataset using Tableau to uncov
 
 * netflix_dataset.csv
 * netflix_dashboard.twbx
+  
+## 🎯 Problem Statement
+To analyze Netflix content dataset and identify trends in content type, genres, and global distribution.
 
 ## 🚀 Project Outcome
 
